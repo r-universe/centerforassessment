@@ -1,6 +1,6 @@
 [
   {
-    "package": "randomNames",
+    "package": "SGPdata",
     "oncran": true
   },
   {
@@ -8,11 +8,11 @@
     "oncran": true
   },
   {
-    "package": "SGPdata",
+    "package": "toOrdinal",
     "oncran": true
   },
   {
-    "package": "toOrdinal",
+    "package": "randomNames",
     "oncran": true
   }
 ]
