@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "randomNames"]
 	path = randomNames
 	url = https://github.com/centerforassessment/randomnames
-	shallow = true
-	registered = true
 [submodule "SGP"]
 	path = SGP
 	url = https://github.com/centerforassessment/sgp
-	shallow = true
-	registered = true
 [submodule "SGPdata"]
 	path = SGPdata
 	url = https://github.com/centerforassessment/sgpdata
-	shallow = true
-	registered = true
 [submodule "toOrdinal"]
 	path = toOrdinal
 	url = https://github.com/centerforassessment/toordinal
-	shallow = true
-	registered = true
