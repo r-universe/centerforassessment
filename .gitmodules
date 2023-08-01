@@ -2,15 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "randomNames"]
-	path = randomNames
-	url = https://github.com/centerforassessment/randomnames
 [submodule "SGP"]
 	path = SGP
 	url = https://github.com/centerforassessment/sgp
 [submodule "SGPdata"]
 	path = SGPdata
 	url = https://github.com/centerforassessment/sgpdata
+[submodule "randomNames"]
+	path = randomNames
+	url = https://github.com/centerforassessment/randomnames
 [submodule "toOrdinal"]
 	path = toOrdinal
 	url = https://github.com/centerforassessment/toordinal
